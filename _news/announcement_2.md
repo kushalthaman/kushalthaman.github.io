@@ -1,11 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I completed the [Cambridge ML Winter Camp](https://www.cambridgeaisafety.org/ml-winter-camp) from Jan 2 - Jan 9 in Cambridge, UK.
+
+date: 2023-01-07 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I attended a week-long ML winter bootcamp in-person at Cambridge in the UK. Here are some things I did when I was at the camp. See below.
 
 ***
 
