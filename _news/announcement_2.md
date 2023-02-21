@@ -1,12 +1,12 @@
 ---
 layout: post
-title: I completed the [Cambridge ML Winter Camp](https://www.cambridgeaisafety.org/ml-winter-camp) from Jan 2 - Jan 9 in Cambridge, UK.
+title: I completed the Cambridge ML Winter Camp from Jan 2 - Jan 9 in Cambridge, UK.
 
 date: 2023-01-07 16:11:00-0400
 inline: false
 ---
 
-I attended a week-long ML winter bootcamp in-person at Cambridge in the UK. Here are some things I did when I was at the camp. See below.
+I attended a <a href="[https://www.cambridgeaisafety.org/ml-winter-camp]">week-long ML winter bootcamp</a>  in-person at Cambridge in the UK. Here are some things I did when I was at the camp. See below.
 
 ***
 
