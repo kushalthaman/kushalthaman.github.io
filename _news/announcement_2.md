@@ -29,5 +29,5 @@ Takeaways:
 - 
 
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+> We can only see a short distance ahead, but we can see plenty there that needs to be done. 
+> —Alan Turing
