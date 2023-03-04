@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I completed an ML bootcamp in Cambridge, UK.
+title: I completed a Machine Learning bootcamp in Cambridge, UK.
 
 date: 2023-01-07 16:11:00-0400
 inline: false
