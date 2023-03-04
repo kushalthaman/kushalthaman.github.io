@@ -1,27 +1,31 @@
 ---
 layout: post
-title: I completed the Cambridge ML Winter Camp from Jan 2 - Jan 9 in Cambridge, UK.
+title: I completed an ML bootcamp in Cambridge, UK.
 
 date: 2023-01-07 16:11:00-0400
 inline: false
 ---
 
-I attended a <a href="[https://www.cambridgeaisafety.org/ml-winter-camp]">week-long ML winter bootcamp</a>  in-person at Cambridge in the UK. Here are some things I did when I was at the camp. See below.
+I attended a <a href="[https://www.cambridgeaisafety.org/ml-winter-camp]">week-long ML winter camp</a> in Cambridge, UK. Here are some things I did when I was there.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The camp was based around completing the first two weeks of <a href="[https://forum.effectivealtruism.org/posts/vvocfhQ7bcBR4FLBx/apply-to-the-second-ml-for-alignment-bootcamp-mlab-2-in]">this</a> curriculum. This is what the days looked like: 
 
 #### Hipster list
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Day 1: rendering in Pytorch, building a ray tracer</li>
+    <li>Day 2: building ResNets </li>
+    <li>Day 3: build your own backpropagation framework</li>
+    <li>Day 4: build your own BERT</li>
+    <li>Day 5: build your own GPT-2, and finetune it!</li>
+    <li>Day 6: transformer interpretability</li>
 </ul>
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
+Takeaways: 
+- Pair programming is very cool. 
 ***
 
 Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
