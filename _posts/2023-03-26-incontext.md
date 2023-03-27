@@ -3,7 +3,7 @@ layout: distill
 title: Evaluating In-Context Learning for Preference Elicitation
 description: 
 giscus_comments: true
-date: 2021-05-22
+date: 2023-03-27
 
 authors:
   - name: Kushal Thaman
