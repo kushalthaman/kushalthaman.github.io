@@ -3,6 +3,7 @@ layout: distill
 title: Evaluating In-Context Learning for Preference Elicitation
 description: How well do image embedding models learn human preferences in-context?
 giscus_comments: true
+tags: ai
 date: 2023-03-27
 
 authors:
