@@ -17,4 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am an undergraduate student at Stanford University majoring in Mathematics and Computer Science. 
 
+Feel free to send an email at {kushal} at {stanford} dot {edu} if you'd like to chat!
+
 
