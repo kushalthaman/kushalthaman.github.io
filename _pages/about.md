@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am an undergraduate student at Stanford University majoring in Mathematics and Computer Science. 
 
-Previously, I lived in India where I participated in the physics and astronomy olympiads, was awarded the [Atlas Fellowship](http://atlasfellowship.org/) and became a [ML Safety Scholar](https://safe.ai/updates). 
+
