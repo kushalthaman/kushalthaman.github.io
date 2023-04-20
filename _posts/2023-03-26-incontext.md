@@ -33,11 +33,6 @@ bibliography: 2023-03-27-incontext.bib
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
-  - name: Equations
-    # if a section has subsections, you can add them as follows:
-    # subsections:
-    #   - name: Example Child Subsection 1
-    #   - name: Example Child Subsection 2
   - name: Introduction 
   - name: Terminology
   - name: Hard-coded Transformers
@@ -64,7 +59,7 @@ _styles: >
 
 ---
 
-## Equations
+## Introduction
 
 This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine.
 You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`.
@@ -81,7 +76,7 @@ Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en
 
 ***
 
-## Citations
+## Terminology
 
 Citations are then used in the article body with the `<d-cite>` tag.
 The key attribute is a reference to the id provided in the bibliography.
