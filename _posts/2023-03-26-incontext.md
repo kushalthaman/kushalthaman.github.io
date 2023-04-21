@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Evaluating In-Context Learning for Preference Elicitation
+title: Evaluating In-Context Learning for Eliciting Preferences  
 description: How well do image embedding models learn human preferences in-context?
 giscus_comments: true
 tags: ai
@@ -34,7 +34,6 @@ bibliography: 2023-03-27-incontext.bib
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
   - name: Introduction 
-  - name: Terminology
   - name: Hard-coded Transformers
   - name: Learned Transformers
   - name: Conclusion
@@ -61,36 +60,23 @@ _styles: >
 
 ## Introduction
 
-This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine.
-You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`.
-If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
+A Cooperative Inverse Reinforcement Learning (CIRL) game is any game where an agent and a human seek to accomplish some tasks. The agent receives a reward according to the reward function of the human, which it does not know and attempts to learn. Thus, the objective of maximizing self-reward is intrinsically linked to maximizing reward for humans. 
 
-To use display mode, again surround your expression with `$$` and place it as a separate paragraph.
-Here is an example:
+Compared to standard Inverse Reinforcement Learning, it offers two key advantages. First, it encourages optimizing for the human as opposed to  as the human. Equivalently, it prevents the robot from adopting a reward function as its own. The second advantage is that it allows the robot to fulfill a human reward function better than a human can. Equivalently, it does not assume human behavior is the best teacher for accomplishing a particular task. 
 
-$$
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-$$
+One example of a CIRL game is the decision thresholding problem. In a classification task, a model is often queried for a decision among options. For a binary classification problem, this threshold determines the minimum confidence required in the positive class for a positive decision output. The decision threshold is often directly relevant to the real-world application of classification results, and requires a careful balancing of type-1 and type-2 classification errors. The tradeoff between precision and recall encoded in decision threshold learning can be framed as a CIRL game. 
 
-Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html) that brought a significant improvement to the loading and rendering speed, which is now [on par with KaTeX](http://www.intmath.com/cg5/katex-mathjax-comparison.php).
+The meta-learning that occurs through OpenAI's image-embedding model 'CLIP' is to learn human preferences. As an example, inferring what ratio of type-1 v/s type-2 error a human prefers over training protocol is an example of a simple CLIP meta-learning scheme. When the model generates softmax probabilities over the two classes, the question still remains of what the final decision should be. Learning preferences in error distributions by the human trainer in turn influence the decision threshold for the final output.
 
-***
+Previous CIRL games have framed the problem as explicit Bayesian inference. In that case, the agent explicitly models probability distributions over actions that would maximize the human's reward and updates priors based on the reward received. The implicit framing arises as a result of in-context learning. The model learns latent concepts through its training data, and if a particular distribution of latent concepts is repeatedly reinforced in the data then it is better understood by the model. Insofar as in-context learning uses these latent concepts for task-specific performance, it can be framed as an implicit Bayesian inference scheme.
 
-## Terminology
+In-context learning is a phenomenon recently observed among large language models based on transformer architecture. Implicit inference occurs in these models when trained on input and output distributions without any specific task. However, when a text classification task is given for example, the model is an example to perform highly-accurate inference and classification without having actually learned the task itself. Our current mechanistic understanding of the phenomenon suggests that the model actually learns concepts for how to do this task somewhere in latent space, and these latent variables are grouped together to solve specific in-context tasks.
 
-Citations are then used in the article body with the `<d-cite>` tag.
-The key attribute is a reference to the id provided in the bibliography.
-The key attribute can take multiple ids, separated by commas.
-
-The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
-If you have an appendix, a bibliography is automatically created and populated in it.
-
-Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
-However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.
+We seek to explore how transformer models can perform in-context learning in order to achieve good task performance on a binary classification problem.  
 
 ***
 
-## Footnotes
+## Hard-coded Transformers
 
 Just wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
 The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote>
