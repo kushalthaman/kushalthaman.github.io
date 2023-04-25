@@ -60,7 +60,7 @@ _styles: >
 
 ## Introduction
 
-# Cooperative Inverse Reinforcement Learning
+### Cooperative Inverse Reinforcement Learning
 
 One solution often presented to the alignment problem is a Cooperative Inverse Reinforcement Learning (CIRL) game. A CIRL game is a cooperative game where a machine agent and a human seek to accomplish some tasks, and are rewarded in accordance with the human's reward function. <d-cite>https://arxiv.org/pdf/1606.03137.pdf</d-cite> The machine agent initially does not know this reward function, and seeks to learn it throughout the game. Thus, for the agent, the objective of maximizing self-reward is intrinsically linked to maximizing reward for humans. In such a game, the model is incentivized to preserve the option value between two decisions if presented with an uncertainty, and truly attempt to understand the human's reward function before giving up the option value.  
 
@@ -68,7 +68,7 @@ Compared to standard Inverse Reinforcement Learning, CIRL offers two key advanta
 
 One example of a CIRL game is the problem of determining the human's decision threshold. In a classification task, a model is often queried for a decision among multiple options. For a binary classification problem, the threshold determines the minimum confidence required in the 'positive' class for a positive decision output. The decision threshold is often directly relevant to the real-world application of classification results, and requires a careful balancing of Type-I (false positive) and Type-II (false negative) classification errors. The tradeoff between the precision and recall encoded in learning the human's decision threshold can be framed as a CIRL game. 
 
-#In-Context Learning
+### In-Context Learning
 
 In this post, we consider meta-learning that occurs through OpenAI's image-embedding model CLIP <d-cite>https://openai.com/research/clip</d-cite> learn human preferences. As an example, inferring what ratio of Type-I or Type-II error a human prefers over the training protocol is an example of a simple CLIP meta-learning scheme. When the model generates softmax probabilities over the two classes, the question still remains of what the final decision should be. Learning preferences in error distributions in turn influences the decision threshold for the final output.
 
