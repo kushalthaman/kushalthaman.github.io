@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Evaluating In-Context Learning for Eliciting Preferences  
-description: How well do image embedding models learn human preferences in-context?
+description: How well can image embedding models learn human preferences in-context?
 giscus_comments: true
 tags: ai
 date: 2023-03-27
@@ -60,15 +60,19 @@ _styles: >
 
 ## Introduction
 
+# Cooperative Inverse Reinforcement Learning
+
 One solution often presented to the alignment problem is a Cooperative Inverse Reinforcement Learning (CIRL) game. A CIRL game is a cooperative game where a machine agent and a human seek to accomplish some tasks, and are rewarded in accordance with the human's reward function. <d-cite>https://arxiv.org/pdf/1606.03137.pdf</d-cite> The machine agent initially does not know this reward function, and seeks to learn it throughout the game. Thus, for the agent, the objective of maximizing self-reward is intrinsically linked to maximizing reward for humans. In such a game, the model is incentivized to preserve the option value between two decisions if presented with an uncertainty, and truly attempt to understand the human's reward function before giving up the option value.  
 
 Compared to standard Inverse Reinforcement Learning, CIRL offers two key advantages. First, it encourages optimizing for the human's reward function as opposed to inferring the reward from the observed behavior of the agent. Equivalently, it prevents the machine agent from adopting a reward function as its own. The second advantage is that it allows the robot to fulfill a human reward function better than a human can. 
 
 One example of a CIRL game is the problem of determining the human's decision threshold. In a classification task, a model is often queried for a decision among multiple options. For a binary classification problem, the threshold determines the minimum confidence required in the 'positive' class for a positive decision output. The decision threshold is often directly relevant to the real-world application of classification results, and requires a careful balancing of Type-I (false positive) and Type-II (false negative) classification errors. The tradeoff between the precision and recall encoded in learning the human's decision threshold can be framed as a CIRL game. 
 
+#In-Context Learning
+
 In this post, we consider meta-learning that occurs through OpenAI's image-embedding model CLIP <d-cite>https://openai.com/research/clip</d-cite> learn human preferences. As an example, inferring what ratio of Type-I or Type-II error a human prefers over the training protocol is an example of a simple CLIP meta-learning scheme. When the model generates softmax probabilities over the two classes, the question still remains of what the final decision should be. Learning preferences in error distributions in turn influences the decision threshold for the final output.
 
-Previous CIRL games have been framed the problem as explicit Bayesian inference.  In that case, the agent explicitly models probability distributions over actions that would maximize the human's reward and updates priors based on the reward received. The implicit framing arises as a result of in-context learning. The model learns latent concepts through its training data, and if a particular distribution of latent concepts is repeatedly reinforced in the data then it is better understood by the model. Insofar as in-context learning uses these latent concepts for task-specific performance, it can be framed as an implicit Bayesian inference scheme.
+One could frame a CIRL game as a problem in explicit or implicit Bayesian inference. In the former case, the agent explicitly models a probability distribution over actions that would maximize the human's reward and updates its priors based on the reward received. One might consider a CIRL game as a problem in implicit Bayesian inference <d-cite>https://arxiv.org/abs/2111.02080</d-cite>. The model learns latent concepts through its training data, and if a particular distribution of latent concepts is repeatedly reinforced in the data then it is better understood by the model. Insofar as in-context learning uses these latent concepts for task-specific performance, it can be framed as an implicit Bayesian inference scheme.
 
 In-context learning is a phenomenon recently observed among large language models based on transformer architecture. Implicit inference occurs in these models when trained on input and output distributions without any specific task. However, when a text classification task is given for example, the model is an example to perform highly-accurate inference and classification without having actually learned the task itself. Our current mechanistic understanding of the phenomenon suggests that the model actually learns concepts for how to do this task somewhere in latent space, and these latent variables are grouped together to solve specific in-context tasks.
 
