@@ -60,7 +60,7 @@ _styles: >
 
 ## Introduction
 
-A Cooperative Inverse Reinforcement Learning (CIRL) game is any game where an agent and a human seek to accomplish some tasks. The agent receives a reward according to the reward function of the human, which it does not know and attempts to learn. Thus, the objective of maximizing self-reward is intrinsically linked to maximizing reward for humans. 
+One solution often presented to the alignment problem is a Cooperative Inverse Reinforcement Learning (CIRL) game. A CIRL game is a cooperative game where a machine agent and a human seek to accomplish some tasks, and are rewarded in accordance with the human's reward function. <d-cite>1</d-cite> The machine agent initially does not know this reward function, and seeks to learn it throughout the game. Thus, for the agent, the objective of maximizing self-reward is intrinsically linked to maximizing reward for humans. 
 
 Compared to standard Inverse Reinforcement Learning, it offers two key advantages. First, it encourages optimizing for the human as opposed to  as the human. Equivalently, it prevents the robot from adopting a reward function as its own. The second advantage is that it allows the robot to fulfill a human reward function better than a human can. Equivalently, it does not assume human behavior is the best teacher for accomplishing a particular task. 
 
