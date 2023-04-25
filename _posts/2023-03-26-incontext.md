@@ -59,7 +59,6 @@ _styles: >
 ---
 
 ## Introduction
-
 ### Cooperative Inverse Reinforcement Learning
 
 One solution often presented to the alignment problem is a Cooperative Inverse Reinforcement Learning (CIRL) game. A CIRL game is a cooperative game where a machine agent and a human seek to accomplish some tasks, and are rewarded in accordance with the human's reward function. <d-cite>https://arxiv.org/pdf/1606.03137.pdf</d-cite> The machine agent initially does not know this reward function, and seeks to learn it throughout the game. Thus, for the agent, the objective of maximizing self-reward is intrinsically linked to maximizing reward for humans. In such a game, the model is incentivized to preserve the option value between two decisions if presented with an uncertainty, and truly attempt to understand the human's reward function before giving up the option value.  
