@@ -10,5 +10,7 @@ I attended a <a href="[https://www.cambridgeaisafety.org/ml-winter-camp]">week-l
 
 ***
 
-> We can only see a short distance ahead, but we can see plenty there that needs to be done. 
+> We can only see a short distance ahead, but we can see plenty there that needs to be done.
+> 
 >—Alan Turing
+
