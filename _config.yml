@@ -111,9 +111,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Deep double descent # blog_name will be displayed in your blog page
+blog_name: the eudaimonic treadmill # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A dossier of my deep descent into big ideas.
+blog_description: A dossier of my deep descent into ideas, both big and small.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -124,7 +124,7 @@ pagination:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
+  repo: kushalthaman/kushalthaman.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
