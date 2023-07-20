@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: " <I, a universe of atoms, an atom in the universe.> "
+subtitle: " _ I, a universe of atoms, an atom in the universe. _ "
 
 profile:
   align: right
