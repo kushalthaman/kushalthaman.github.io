@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am an undergraduate student at Stanford University majoring in Mathematics and Computer Science. 
+Hi! I'm Kushal (pronounced /kʊʃəl/). I am an undergraduate student at Stanford University majoring in Mathematics and Computer Science. 
 
 Feel free to send me an email at {kushal} at {stanford} dot {edu} if you'd like to chat!
 
