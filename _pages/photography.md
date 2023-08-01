@@ -1,5 +1,5 @@
 ---
-layout: photography
+layout: about
 title: photography
 permalink: /
 subtitle:  
