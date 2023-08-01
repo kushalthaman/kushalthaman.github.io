@@ -1,7 +1,7 @@
 ---
 layout: default
 title: photography
-permalink: /
+permalink: /p
 subtitle:  
 
 profile:
