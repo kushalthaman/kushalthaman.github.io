@@ -19,7 +19,7 @@ Hi! I'm Kushal (pronounced **/kʊʃəl/**). I am an undergraduate student at Sta
 
 My main interests lie in understanding and building digitally intelligent machines that will be vastly beneficial to humanity. These days, I spend my time trying to do this with Deep Reinforcement Learning, Imitation Learning and Learning Theory.
 
-In my spare time, I enjoy reading about evolutionary biology and moral philosophy as well as reading cyberpunk and science fiction, and I'm into hiking, photography, cinematography and playing Go, squash and soccer. 
+In my spare time, I enjoy reading about evolutionary biology, modern or big history, moral philosophy as well as reading cyberpunk and science fiction, and I'm into hiking, photography, cinematography and playing Go, squash and soccer. 
 
 Feel free to send me an email at {kushal} at {stanford} dot {edu} if you'd like to chat!
 
