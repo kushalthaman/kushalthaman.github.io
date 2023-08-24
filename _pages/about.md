@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm Kushal (pronounced **/kʊʃəl/**). I am an undergraduate student at Stanford University studying Mathematics and Computer Science. 
 
-My main interests lie in understanding and building digitally intelligent machines that will be vastly beneficial to humanity. These days, I spend my time trying to do this with Deep Reinforcement Learning, Imitation Learning and Learning Theory.
+My main interests lie in understanding and building digitally intelligent machines that will be vastly beneficial to humanity. These days, I spend my time trying to do this with Deep Reinforcement Learning, Imitation Learning and Learning Theory. I also enjoy math and Theoretical Computer Science puzzles. 
 
 In my spare time, I enjoy reading about evolutionary biology, history and moral philosophy as well as reading cyberpunk and science fiction, and I'm into hiking, photography, cinematography and playing Go, squash and soccer. 
 
