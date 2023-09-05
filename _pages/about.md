@@ -21,6 +21,6 @@ My main interests lie in understanding and building digitally intelligent machin
 
 In my spare time, I enjoy reading about evolutionary biology, history and moral philosophy as well as reading science fiction. I'm also into hiking, photography and playing squash and soccer. 
 
-Feel free to send me an email at {kushal} at {stanford} dot {edu} if you'd like to chat!
+Feel free to send me an email at {kushal} at {stanford} dot {edu} if you'd like to chat about anything!
 
 
