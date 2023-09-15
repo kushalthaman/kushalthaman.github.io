@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm Kushal (pronounced **/kʊʃəl/**). I am an undergraduate at Stanford University studying Computer Science and Mathematics. 
 
-My main interests lie in understanding and building digitally intelligent machines that will be vastly beneficial to humanity. These days, I spend my time trying to do this with [making robots learn human preferenceS](https://openai.com/research/learning-from-human-preferences) (often using Deep RL or IL) and Learning Theory.  
+My main interests lie in understanding and building digitally intelligent machines that will be vastly beneficial to humanity. These days, I spend my time trying to do this by [making robots learn human preferenceS](https://openai.com/research/learning-from-human-preferences) (often using Deep RL or IL) and Learning Theory.  
 
-In my spare time, I like to read natural history, moral philosophy and science fiction literature. I'm also into hiking, [photography](https://kushalthaman.tumblr.com/) and playing squash and soccer. Here's a list of my favourite things. I currently don't write much on this blog, but I'm looking to change that. 
+In my spare time, I like to read natural history, moral philosophy and science fiction literature. I'm also into [photography](https://kushalthaman.tumblr.com/), going on outdoor adventures and playing squash and soccer. Here's a list of my favourite things. I currently don't write much on this blog, but I'm looking to change that. 
 
 Feel free to send me an email at {kushal} at {stanford} dot {edu} if you'd like to chat about anything you think we'd both enjoy! 
 
