@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Kushal (pronounced **/kʊʃəl/**). I am an undergraduate at Stanford University studying Computer Science and Mathematics. 
+Hi! I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion). I am an undergraduate at Stanford University studying Computer Science and Mathematics. 
 
 My interests lie in understanding and building machines that are vastly beneficial to everyone. To that end, my fascinations include ML, Information Theory, and Linguistics. These days, I spend my time working on [preference learning](https://openai.com/research/learning-from-human-preferences) and [learning theory](https://arxiv.org/abs/1312.6120). 
 
