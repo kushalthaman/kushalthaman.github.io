@@ -21,6 +21,6 @@ My interests lie in understanding and building AIs that are vastly beneficial to
 
 In my spare time, I like to read moral philosophy and science fiction, do [photography](https://kushalthaman.tumblr.com/), go on outdoor adventures and play squash and soccer. Here's a bigger [list]() of things I enjoy. I currently don't write much on this blog, but I'm looking to change that. 
 
-Feel free to send me an email at {kushal} at {stanford} dot {edu} if you'd like to chat about anything you think we'd both enjoy! 
+Reach out if you'd like to chat about anything you think we'd both enjoy! 
 
 
