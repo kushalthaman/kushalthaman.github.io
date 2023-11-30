@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion). I am an undergrad at Stanford University studying Computer Science and Math. 
+Hi, I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion). I am an undergrad at Stanford studying Computer Science and Math. 
 
 My interests lie in understanding and building AIs that are vastly beneficial to everyone. These days, I spend my time working on [preference learning](https://openai.com/research/learning-from-human-preferences) and [learning theory](https://www.alignmentforum.org/posts/sEyWufriufTnBKnTG/incidental-polysemanticity). 
 
