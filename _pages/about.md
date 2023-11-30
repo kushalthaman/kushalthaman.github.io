@@ -19,7 +19,7 @@ Hi, I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion). I am an undergr
 
 My interests lie in understanding and building machines that are vastly beneficial to everyone. To that end, my fascinations include ML, Information Theory, and Linguistics. These days, I spend my time working on [preference learning](https://openai.com/research/learning-from-human-preferences) and [learning theory](https://www.alignmentforum.org/posts/sEyWufriufTnBKnTG/incidental-polysemanticity). 
 
-In my spare time, I like to read natural history, moral philosophy and science fiction. I'm also into [photography](https://kushalthaman.tumblr.com/), going on outdoor adventures and playing squash and soccer. Here's a bigger [list]() of things I enjoy. I currently don't write much on this blog, but I'm looking to change that. 
+In my spare time, I like to read moral philosophy and science fiction, do [photography](https://kushalthaman.tumblr.com/), go on outdoor adventures and play squash and soccer. Here's a bigger [list]() of things I enjoy. I currently don't write much on this blog, but I'm looking to change that. 
 
 Feel free to send me an email at {kushal} at {stanford} dot {edu} if you'd like to chat about anything you think we'd both enjoy! 
 
