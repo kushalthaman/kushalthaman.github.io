@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work from summer 2023 on ['Incidental Polysemanticity'](https://arxiv.org/abs/2312.03096) is out on arXiv now!
+The first paper of my undergrad, [Incidental Polysemanticity](https://arxiv.org/abs/2312.03096) is out on arXiv now!
