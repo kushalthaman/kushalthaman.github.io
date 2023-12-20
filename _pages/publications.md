@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: a list of my pre-prints, projcects and publications, roughly in chronological order. 
+description: a list of my pre-prints and publications, in chronological order. 
 nav: true
 nav_order: 1
 ---
