@@ -12,10 +12,5 @@ also see [Google Scholar](https://scholar.google.com/citations?user=89nZKJgAAAAJ
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
-{% assign publications = '' %}
-{% for publication in publications %}
-  {% assign modified_publication = publication | replace: 'Kushal Thaman', '<u>Kushal Thaman</u>' %}
-  {{ modified_publication }}
-{% endfor %}
 
 </div>
