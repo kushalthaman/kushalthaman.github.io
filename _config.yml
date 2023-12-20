@@ -240,8 +240,8 @@ display_tags: ['math', 'ml', 'thoughts', 'outdoors'] # this tags will be dispaly
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Thaman]
+  first_name: [Kushal]
 
   style: apa
   locale: en
