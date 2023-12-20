@@ -9,6 +9,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+Also see [Google Scholar](https://scholar.google.com/citations?user=89nZKJgAAAAJ).
+
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
