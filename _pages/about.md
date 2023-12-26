@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion), an undergrad at Stanford studying Computer Science and Math. 
 
-My interests lie in understanding and building AIs that are vastly beneficial to everyone. These days, I spend my time working on deep generative models, and I'm especially interested in [diffusion models](https://arxiv.org/abs/2006.11239), [preference learning](https://openai.com/research/learning-from-human-preferences) and [learning theory](https://arxiv.org/abs/2312.03096). 
+My interests lie in understanding and building AIs that are vastly beneficial to everyone. These days, I spend my time working on deep generative models, and I'm especially interested in [diffusion models](https://arxiv.org/abs/2006.11239), [preference learning](https://openai.com/research/learning-from-human-preferences) and the [science of Deep Learning](https://arxiv.org/abs/2312.03096). 
 
 In my spare time, I like to read science fiction, do [photography](https://kushalthaman.tumblr.com/), go on outdoor adventures and play squash and soccer. Here's a bigger [list]() of things I enjoy. I currently don't write much on this blog, but I'm looking to change that. 
 
