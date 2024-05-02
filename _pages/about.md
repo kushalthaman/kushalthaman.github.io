@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion), an undergrad at Stanford studying Computer Science and Math. In the past, I worked on the [science of neural network training](https://arxiv.org/abs/2312.03096) at [STAIR](https://stair.cs.stanford.edu/), and now think about in-context learning and attention variants at [Stanford NLP](https://nlp.stanford.edu/), advised by Prof. [Chris Manning](https://nlp.stanford.edu/~manning/).
 
-In my spare time, I like to do [photography](https://kushalthaman.tumblr.com/), write literary non-fiction on my constant state of adomania, hike mountains, and play tennis and soccer. 
+In my spare time, I like to do [photography](https://kushalthaman.tumblr.com/), write literary non-fiction, hike mountains, and play tennis and soccer. 
 
 Reach out if you'd like to chat about anything you think we'd both enjoy!
