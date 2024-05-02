@@ -15,12 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion), an undergrad at Stanford studying Computer Science and Math. 
+I'm Kushal (pronounced **/kʊʃəl/**, rhymes with cushion), an undergrad at Stanford studying Computer Science and Math. In the past, I worked on [science of neural network training](https://arxiv.org/abs/2312.03096) at [STAIR](https://stair.cs.stanford.edu/), and now think about in-context learning at [Stanford NLP](https://nlp.stanford.edu/) with Prof. Chris Manning's group. 
 
-My interests lie in mechanistically understanding and building AIs that are vastly beneficial to everyone. These days, I spend my time working on deep generative models, and I enjoy reading about and working on compositional generalization, preference learning, [interpretability](https://arxiv.org/abs/2312.03096) and the science of learning and emergence.
-
-In my spare time, I like to read science fiction, do [photography](https://kushalthaman.tumblr.com/), explore mountains, play squash and soccer and romanticize life. Here's a bigger [list]() of things I like. I currently don't write much on this blog, but I'm looking to change that. 
+In my spare time, I like to do [photography](https://kushalthaman.tumblr.com/), explore mountains, and play tennis and soccer. I currently don't write much on this blog, but I'm looking to change that. 
 
 Reach out if you'd like to chat about anything you think we'd both enjoy! 
-
-
