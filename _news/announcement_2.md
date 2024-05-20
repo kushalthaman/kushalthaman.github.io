@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be a Teaching Assistant for the course [CS21SI: AI for Social Good](https://web.stanford.edu/class/cs21si/) in Spring 2024. 
+I will be a Teaching Assistant for the course [CS21SI: AI for Social Good](https://web.stanford.edu/class/cs21si/) in Spring 2024. Come hear me talk about RL and unsupervised learning!
