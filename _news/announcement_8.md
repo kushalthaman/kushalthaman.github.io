@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be serving as a reviewer at (NeurIPS 2024)[https://neurips.cc/Conferences/2024]. 
+I will be serving as a reviewer at [NeurIPS 2024](https://neurips.cc/Conferences/2024). 
