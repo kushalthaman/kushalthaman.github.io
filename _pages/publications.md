@@ -15,6 +15,6 @@ also see [Google Scholar](https://scholar.google.com/citations?user=89nZKJgAAAAJ
 
 </div>
 
-volunteering work: neurips 2024, 
+volunteer work: reviewer at [ICLR 2024 Tiny Papers](https://iclr.cc/Conferences/2024/CallForTinyPapers), [NeurIPS 2024](https://neurips.cc/Conferences/2024/). 
 
 
