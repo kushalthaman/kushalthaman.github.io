@@ -15,6 +15,6 @@ also see [Google Scholar](https://scholar.google.com/citations?user=89nZKJgAAAAJ
 
 </div>
 
-volunteer work: reviewer at [ICLR 2024 Tiny Papers](https://iclr.cc/Conferences/2024/CallForTinyPapers), [NeurIPS 2024](https://neurips.cc/Conferences/2024/). 
+volunteer work: reviewer at [ICLR 2024 Tiny Papers](https://iclr.cc/Conferences/2024/CallForTinyPapers), [NeurIPS 2024](https://neurips.cc/Conferences/2024/), [NeurIPS 2024: System-2 Reasoning At Scale Workshop](https://s2r-at-scale-workshop.github.io/). 
 
 
