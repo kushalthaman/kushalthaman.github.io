@@ -2,7 +2,7 @@
 layout: page
 permalink: /books/
 title: bookshelf
-description: _Arrange whatever pieces come your way_. ⸺ Virginia Woolf
+description: Arrange whatever pieces come your way. ⸺ Virginia Woolf
 nav: true
 nav_order: 1
 ---
@@ -14,7 +14,7 @@ nav_order: 1
 
 ## recent  
 
-- Distinction (Bourdieu)
+- Distinction, Pierre Bourdieu
 
 ---
 
