@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /bookshelf/
+permalink: /books/
 title: bookshelf
 description: a list of my pre-prints and publications, in reverse chronological order.
 nav: true
