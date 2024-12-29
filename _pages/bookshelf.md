@@ -7,27 +7,24 @@ nav: true
 nav_order: 1
 ---
 
-<div class="books">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+## recent books
 
-</div>
+- The Stranger (Camus)
+- Distinction (Bourdieu)
+- Siddhartha (reread)
+- The Face Of The Third Reich
+- The Contrarian
+- Focus (ASML)
+- In Praise of Commercial Culture
+- Discover Your Inner Economist
+- Boom 
 
 ---
 
-## currently reading
+## essays
 
-- **Infinite Jest** by David Foster Wallace  
-
-- **Milkman** by Anna Burns  
-
----
-
-## favorites
-
-- **The Wealth of Nations** by Adam Smith  
-
-- **Meditations** by Marcus Aurelius  
+- 
 
 ---
 
