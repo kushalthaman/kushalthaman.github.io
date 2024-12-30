@@ -33,8 +33,9 @@ to illustrate a subset of the ideas that have been on my mind lately.
 
 ### recommendations  
 
-to decompose my aesthetic preferences for you. i try to maintain a high bar for this list. 
+i keep thinking of and coming back to these books, and try to maintain a high bar for this list. 
 
+- Newton's "Principia" for the Common Reader, Subrahmanyan Chandrasekhar
 
 ---
 
