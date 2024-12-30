@@ -29,7 +29,7 @@ to illustrate a subset of the ideas that have been on my mind lately.
 - Hitler's People: The Faces of the Third Reich, Richard Evans
 - On Photography, Susan Sontag
 - Focus: The ASML Way, Marc Hijnk
-
+- The Age of Awakening, Amit Kapoor
 
 ### recommendations  
 
@@ -40,4 +40,4 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 
 ---
 
-## essays
+## essays  
