@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 _"Arrange whatever pieces come your way."_ 
-⸺ Virginia Woolf
+⸺Virginia Woolf
 
 <!-- _pages/publications.md -->
 <div class="publications">
@@ -35,15 +35,7 @@ to illustrate a subset of the ideas that have been on my mind lately.
 
 to decompose my aesthetic preferences for you. i try to maintain a high bar for this list. 
 
-- 
 
 ---
 
 ## essays
-
-
-
-
----
-
-## 
