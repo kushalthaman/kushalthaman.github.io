@@ -2,7 +2,7 @@
 layout: page
 permalink: /books/
 title: bookshelf
-description: "Arrange whatever pieces come your way." ⸺ Virginia Woolf
+description: 'Arrange whatever pieces come your way.' ⸺ Virginia Woolf
 nav: true
 nav_order: 1
 ---
