@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started working at the [Center for AI Safety](https://safe.ai/) on vision adversarial attacks with [Dan Hendrycks](https://people.eecs.berkeley.edu/~hendrycks/). 
+First day at the [Center for AI Safety](https://safe.ai/), where I'm working on vision adversarial attacks with [Dan Hendrycks](https://people.eecs.berkeley.edu/~hendrycks/).
