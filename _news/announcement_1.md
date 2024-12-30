@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am fortunate to be awarded with the [Atlas Fellowship](https://atlasfellowship.org/). 
+I have been awarded the [Atlas Fellowship](https://atlasfellowship.org/). 
