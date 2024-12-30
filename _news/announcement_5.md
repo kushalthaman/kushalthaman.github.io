@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I won the Honorable Mention award at the International Physics Olympiad (held as a [distributed](https://ipho-unofficial.org/timeline/2020/) event due to COVID).
+I won the Honorable Mention award at the International Physics Olympiad (which was held as a [distributed](https://ipho-unofficial.org/timeline/2020/) event due to COVID-19).
