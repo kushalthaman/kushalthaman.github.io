@@ -36,6 +36,7 @@ to illustrate a subset of the ideas that have been on my mind lately.
 i keep thinking of and coming back to these books, and try to maintain a high bar for this list. 
 
 - Newton's "Principia" for the Common Reader, Subrahmanyan Chandrasekhar
+- Reasons and Persons, Derek Parfit
 
 ---
 
