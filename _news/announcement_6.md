@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I competed at the International Young Physicists' Tournament ([IYPT](https://www.iypt.org/)) as part of the Indian team.
+I was part of the five person team that represented India at the International Young Physicists' Tournament ([IYPT](https://www.iypt.org/)).
