@@ -45,7 +45,6 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 ### recommendations
 
 - Consider the Lobster, David Foster Wallace
-- 
 - [We are in triage every second of every day](https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/), Holly Elmore
 - [Why we can't take expected value estimates literally](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/), Holden Karnofsky
 - [The Mundanity of Excellence: A Report on Stratification & Olympic Swimmers](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers), Daniel F. Chambliss
