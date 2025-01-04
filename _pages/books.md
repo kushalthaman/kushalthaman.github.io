@@ -38,7 +38,3 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - Newton's "Principia" for the Common Reader, Subrahmanyan Chandrasekhar
 - On What Matters, Derek Parfit
 - Flowers for Algernon, Daniel Keyes
-
----
-
-## essays  
