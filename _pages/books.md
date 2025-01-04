@@ -52,4 +52,6 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm), Adm. Hyman G. Rickover
 - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/), Anonymous
 - [500 million, but not a single one more](https://laneless.substack.com/p/500-million-but-not-a-single-one-more), Jai Dhyani
+- [The Death of the Moth](https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf), Virginia Woolf
+- [We Choose to Go to the Moon](https://www.parkwayschools.net/cms/lib/MO01931486/Centricity/Domain/1578/JFKMoon_Speech.pdf), John F. Kennedy
 - [Economic Possibilities for our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf), John Maynard Keynes
