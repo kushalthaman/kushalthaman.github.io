@@ -42,6 +42,8 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 
 ## essays 
 
+---
+
 ### recommendations
 
 - Consider the Lobster, David Foster Wallace
