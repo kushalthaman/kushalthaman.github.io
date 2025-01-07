@@ -44,6 +44,13 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 
 ---
 
+### recent
+
+- [Chimeras](https://plato.stanford.edu/entries/chimeras)
+- [Do real-output and real-wage measures capture reality?](https://lucept.com/wp-content/uploads/2014/11/william-nordhaus-the-cost-of-light.pdf), William R. Nordhaus
+- [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), DeepSeek-AI
+- [Underrated reasons to be thankful](https://dynomight.net/thanks/), Dynomight
+
 ### recommendations
 
 - [Consider the Lobster](https://gwern.net/doc/philosophy/ethics/2004-wallace-considerthelobster.html), David Foster Wallace
@@ -55,5 +62,6 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [500 million, but not a single one more](https://laneless.substack.com/p/500-million-but-not-a-single-one-more), Jai Dhyani
 - [The Death of the Moth](https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf), Virginia Woolf
 - [We Choose to Go to the Moon](https://www.parkwayschools.net/cms/lib/MO01931486/Centricity/Domain/1578/JFKMoon_Speech.pdf), John F. Kennedy
+- [Long-Term Growth as a Sequence of Exponential Modes](https://mason.gmu.edu/~rhanson/longgrow.pdf), Robin Hanson
 - [Economic Possibilities for our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf), John Maynard Keynes
 - [Three reasons to cooperate](https://sideways-view.com/2022/12/24/three-reasons-to-cooperate/), Paul F. Christiano
