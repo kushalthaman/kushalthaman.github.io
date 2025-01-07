@@ -50,6 +50,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [Do real-output and real-wage measures capture reality?](https://lucept.com/wp-content/uploads/2014/11/william-nordhaus-the-cost-of-light.pdf), William R. Nordhaus
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), DeepSeek-AI
 - [Underrated reasons to be thankful](https://dynomight.net/thanks/), Dynomight
+- [Five more years](https://willhath.substack.com/p/five-more-years), Will Hathaway
 
 ### recommendations
 
