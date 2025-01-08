@@ -38,6 +38,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - On What Matters, Derek Parfit
 - In Praise of Commercial Culture, Tyler Cowen
 - Never Let Me Go, Kazuo Ishiguro
+- The Vegetarian, Han Kang
 
 ---
 
