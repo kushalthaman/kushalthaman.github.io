@@ -49,7 +49,9 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [Chimeras](https://plato.stanford.edu/entries/chimeras)
 - [Do real-output and real-wage measures capture reality?](https://lucept.com/wp-content/uploads/2014/11/william-nordhaus-the-cost-of-light.pdf), William R. Nordhaus
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), DeepSeek-AI
+- [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Dario Amodei
 - [Underrated reasons to be thankful](https://dynomight.net/thanks/), Dynomight
+- [Culture Drift Predicts Decadence](https://www.overcomingbias.com/p/culture-drift-predicts-decadence), Robin Hanson
 - [Five more years](https://willhath.substack.com/p/five-more-years), Will Hathaway
 
 ### recommendations
