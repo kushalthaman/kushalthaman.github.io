@@ -46,6 +46,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 
 ### recent
 
+- [E Unibus Pluram](https://jsomers.net/DFW_TV.pdf), David Foster Wallace
 - [Chimeras](https://plato.stanford.edu/entries/chimeras)
 - [Do real-output and real-wage measures capture reality?](https://lucept.com/wp-content/uploads/2014/11/william-nordhaus-the-cost-of-light.pdf), William R. Nordhaus
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), DeepSeek-AI
