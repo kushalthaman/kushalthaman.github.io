@@ -24,7 +24,6 @@ to illustrate a subset of the ideas that have been on my mind lately.
 
 - Distinction, Pierre Bourdieu
 - The Stranger, Albert Camus
-- In Praise of Commercial Culture, Tyler Cowen
 - Siddhartha, Hermann Hesse (re-read)
 - Hitler's People: The Faces of the Third Reich, Richard Evans
 - On Photography, Susan Sontag
@@ -37,6 +36,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 
 - Newton's "Principia" for the Common Reader, Subrahmanyan Chandrasekhar
 - On What Matters, Derek Parfit
+- In Praise of Commercial Culture, Tyler Cowen
 
 ---
 
