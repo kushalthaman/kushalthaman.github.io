@@ -71,3 +71,10 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [Long-Term Growth as a Sequence of Exponential Modes](https://mason.gmu.edu/~rhanson/longgrow.pdf), Robin Hanson
 - [Economic Possibilities for our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf), John Maynard Keynes
 - [Three reasons to cooperate](https://sideways-view.com/2022/12/24/three-reasons-to-cooperate/), Paul F. Christiano
+
+---
+
+## quotes 
+
+- "The difference between a Turing machine and a finite state machine is the tape."
+- "The days are long but the years are short."
