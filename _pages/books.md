@@ -77,4 +77,3 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 ## quotes 
 
 - "The difference between a Turing machine and a finite state machine is the tape."
-- "The days are long but the years are short."
