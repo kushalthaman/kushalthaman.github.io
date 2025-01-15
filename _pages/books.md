@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: bookshelf
+title: shelf
 description: 
 nav: true
 nav_order: 1
