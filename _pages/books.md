@@ -55,6 +55,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Dario Amodei
 - [Underrated reasons to be thankful](https://dynomight.net/thanks/), Dynomight
 - [Culture Drift Predicts Decadence](https://www.overcomingbias.com/p/culture-drift-predicts-decadence), Robin Hanson
+- [Economic Growth under Transformative AI](https://www.nber.org/system/files/working_papers/w31815/w31815.pdf), Philip Trammell & Anton Korinek
 - [Losing my mind in the Siskiyous](https://willhath.substack.com/p/losing-my-mind-in-the-siskiyous), Will Hathaway
 
 ### recommendations
