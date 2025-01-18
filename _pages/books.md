@@ -80,4 +80,5 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - "The difference between a Turing machine and a finite state machine is the tape."
 - "We are such stuff as dreams are made on, and our little life is rounded with a sleep."
 - "The ultimate, hidden truth of the world is that it is something that we make, and could just as easily make differently."
+- P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary.
 - "Those who were seen dancing were thought to be insane by those who could not hear the music.”
