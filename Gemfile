@@ -24,5 +24,5 @@ group :other_plugins do
     gem 'feedjira'
 end
 
-# add explicit uri dependency to avoid conflicts
+# explicitly include uri to prevent version conflicts
 gem 'uri', '>= 1.0.2'
