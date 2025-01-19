@@ -19,14 +19,15 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0.2' # ensure this matches your setup
-        bundler-cache: true
-    - name: Install correct Bundler version
+        ruby-version: '3.0.2'
+        bundler-cache: false # turn off bundler cache to avoid conflicts
+    - name: Install Bundler and clean environment
       run: |
-        gem install bundler:2.3.26 # install the specific version
+        gem uninstall -i $(bundle config path --global) uri --all --force || echo "No existing uri gem"
+        gem install bundler:2.3.26
     - name: Install gems
       run: |
-        bundle install --deployment --without development test
+        bundle install --force
     - name: Build the site
       run: bundle exec jekyll build
     - name: Deploy the site
