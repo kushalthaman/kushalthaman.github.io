@@ -67,6 +67,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [Why we can't take expected value estimates literally](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/), Holden Karnofsky
 - [The Mundanity of Excellence: A Report on Stratification & Olympic Swimmers](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers), Daniel F. Chambliss
 - [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm), Adm. Hyman G. Rickover
+- [The Inner Ring](https://www.lewissociety.org/innerring/), C.S. Lewis
 - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/), Anonymous
 - [500 million, but not a single one more](https://laneless.substack.com/p/500-million-but-not-a-single-one-more), Jai Dhyani
 - [The Death of the Moth](https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf), Virginia Woolf
