@@ -31,6 +31,8 @@ jobs:
     - name: Build the site
       run: |
         bundle exec jekyll build || (echo "Jekyll build failed"; exit 1)
+        echo "Contents of _site after build:"
+        ls -al _site || (echo "_site directory missing"; exit 1)
     - name: Deploy the site
       run: |
         git config --global user.name "GitHub Action"
