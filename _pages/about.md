@@ -19,4 +19,4 @@ I'm Kushal (pronounced **/kʊʃəl/**), an undergrad at Stanford studying Comput
 
 In my spare time, I like to do [photography](https://kushalthaman.tumblr.com/) to make the world feel a bit more mythic, swim, think about culture & endogenous growth theory, and counter my perpetual [onism](https://www.thedictionaryofobscuresorrows.com/concept/onism) by hiking mountains.
 
-Reach out if you'd like to chat about anything you think we'd both enjoy!
+Reach out if you'd like to chat about anything you think we'd both enjoy! I operate by [Crocker's rules](https://en.wikiquote.org/wiki/Lee_Daniel_Crocker), and have an [admonymous](https://www.admonymous.co/kushalt) for feedback.
