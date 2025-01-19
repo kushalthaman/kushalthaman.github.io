@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -17,7 +18,11 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 end
+
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
+# add explicit uri dependency to avoid conflicts
+gem 'uri', '>= 1.0.2'
