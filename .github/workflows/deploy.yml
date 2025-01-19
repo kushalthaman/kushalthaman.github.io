@@ -19,9 +19,11 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0.2' # ensure you're using the same ruby version
-        bundler-version: '2.3.26' # pin to a stable bundler version
+        ruby-version: '3.0.2' # ensure this matches your setup
         bundler-cache: true
+    - name: Install correct Bundler version
+      run: |
+        gem install bundler:2.3.26 # install the specific version
     - name: Install gems
       run: |
         bundle install --deployment --without development test
