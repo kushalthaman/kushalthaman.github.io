@@ -25,7 +25,7 @@ to illustrate a subset of the ideas that have been on my mind lately.
 - Distinction, Pierre Bourdieu
 - The Stranger, Albert Camus
 - Siddhartha, Hermann Hesse (re-read)
-- Hitler's People: The Faces of the Third Reich, Richard Evans
+- Convex Optimization, Stephen Boyd
 - On Photography, Susan Sontag
 - Focus: The ASML Way, Marc Hijnk
 - The Age of Awakening, Amit Kapoor
@@ -37,6 +37,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - Newton's "Principia" for the Common Reader, Subrahmanyan Chandrasekhar
 - On What Matters, Derek Parfit
 - In Praise of Commercial Culture, Tyler Cowen
+- Left Hand of Darkness, Ursula K. Le Guin
 - Never Let Me Go, Kazuo Ishiguro
 - The Vegetarian, Han Kang
 
@@ -54,6 +55,7 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), DeepSeek-AI
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Dario Amodei
 - [Underrated reasons to be thankful](https://dynomight.net/thanks/), Dynomight
+- [The 1991 Project](https://the1991project.com/), Shruti Rajagopalan
 - [Culture Drift Predicts Decadence](https://www.overcomingbias.com/p/culture-drift-predicts-decadence), Robin Hanson
 - [Economic Growth under Transformative AI](https://www.nber.org/system/files/working_papers/w31815/w31815.pdf), Philip Trammell & Anton Korinek
 - [Losing my mind in the Siskiyous](https://willhath.substack.com/p/losing-my-mind-in-the-siskiyous), Will Hathaway
