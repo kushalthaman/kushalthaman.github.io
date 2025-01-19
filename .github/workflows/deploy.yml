@@ -20,10 +20,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-version: '2.3.26' # Specify a recent Bundler version
         bundler-cache: true
-    - name: Install Latest Bundler
-      run: gem install bundler
     - name: Install deps
       run: |
         npm install -g mermaid.cli
@@ -43,3 +40,5 @@ jobs:
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+
+
