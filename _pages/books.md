@@ -85,3 +85,4 @@ i keep thinking of and coming back to these books, and try to maintain a high ba
 - "The ultimate, hidden truth of the world is that it is something that we make, and could just as easily make differently."
 - "P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary."
 - "Those who were seen dancing were thought to be insane by those who could not hear the music.”
+- “People who complain we put too much violence in the nature documentaries should see what we leave on the cutting room floor.” ⸺David Attenborough
