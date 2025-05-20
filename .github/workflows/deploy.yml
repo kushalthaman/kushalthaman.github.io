@@ -21,6 +21,9 @@ jobs:
       with:
         ruby-version: '3.0.2'
         bundler-cache: false
+    - name: Install ImageMagick
+      run: |
+        sudo apt-get update && sudo apt-get install -y imagemagick
     - name: Install Bundler and clean environment
       run: |
         gem uninstall -i $(bundle config path --global) uri --all --force || echo "No existing uri gem"
@@ -30,9 +33,26 @@ jobs:
         bundle install --force
     - name: Build the site
       run: |
-        bundle exec jekyll build || (echo "Jekyll build failed"; exit 1)
-        echo "Contents of _site after build:"
-        ls -al _site || (echo "_site directory missing"; exit 1)
+        bundle exec jekyll build --verbose --trace > jekyll_build_output.txt 2>&1 || (cat jekyll_build_output.txt && echo "Jekyll build failed. See output above." && exit 1)
+        echo "Jekyll build supposedly succeeded. Output captured in jekyll_build_output.txt"
+        cat jekyll_build_output.txt
+    - name: Check _site directory
+      run: |
+        if [ ! -d "_site" ]; then
+          echo "Error: _site directory does not exist."
+          exit 1
+        fi
+        if [ -z "$(ls -A _site)" ]; then
+          echo "Error: _site directory is empty."
+          exit 1
+        fi
+        echo "_site directory exists and is not empty."
+    - name: Upload Jekyll build log
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: jekyll-build-log
+        path: jekyll_build_output.txt
     - name: Deploy the site
       run: |
         git config --global user.name "GitHub Action"
